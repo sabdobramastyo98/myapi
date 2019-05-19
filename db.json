@@ -3,26 +3,31 @@
     {
       "id" : 1,
       "title" : "MyNotes (Android Project)",
+      "link" : "https://i.ibb.co/sVqtTSB/mynotes.png",
       "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in sem nec elit rhoncus malesuada et vitae odio. Nunc quis porta risus, sit amet feugiat velit.."
     },
     {
       "id" : 2,
       "title" : "Profile Web Project",
+      "link" : "https://i.ibb.co/71ZHgNn/gantikan.png",
       "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in sem nec elit rhoncus malesuada et vitae odio. Nunc quis porta risus, sit amet feugiat velit."
     },
     {
       "id" : 3,
       "title" : "Gantikan (The Projects)",
+      "link" : "https://i.ibb.co/71ZHgNn/gantikan.png",
       "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in sem nec elit rhoncus malesuada et vitae odio. Nunc quis porta risus, sit amet feugiat velit."
     },
     {
       "id" : 4,
       "title" : "Music Player (UI/UX Project)",
+      "link" : "https://i.ibb.co/71ZHgNn/gantikan.png",
       "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in sem nec elit rhoncus malesuada et vitae odio. Nunc quis porta risus, sit amet feugiat velit."
     },
     {
       "id" : 5,
       "title" : "Selidik (UI/UX Project)",
+      "link" : "https://i.ibb.co/71ZHgNn/gantikan.png",
       "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in sem nec elit rhoncus malesuada et vitae odio. Nunc quis porta risus, sit amet feugiat velit."
     }
    ]
